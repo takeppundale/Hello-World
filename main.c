@@ -2,6 +2,11 @@
 
 int main(void)
 {
+	int i = 0;			/* ÉãÅ[Évêßå‰óp	*/
+
 	/* this is test cord. */
-	printf("Hello World!!\n");
+	for (i = 0)
+	{
+		printf("Hello World!! [%d]\n", i);
+	}
 }
