@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	int i = 0;			/* ƒ‹[ƒv§Œä—p	*/
+	int i = 0;			/* ãƒ«ãƒ¼ãƒ—åˆ¶å¾¡ç”¨	*/
 
 	/* this is test cord. */
 	for (i = 0)
